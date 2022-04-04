@@ -1,0 +1,64 @@
+{
+    "patient": [
+      {
+        "id": 1,
+        "name": "DANIEL JAMES ",
+        "DOB": "29th September 1993",
+        "address": "777 Brockton Avenue, Abington MA 2351",
+        "allergy": [
+          "celery",
+          "gluten",
+          "eggs",
+          "milk"
+        ],
+        "comment": "teeth cavity-teeth cleaning-teeth implant"
+      },
+      {
+        "id": 2,
+        "name": "EMILY JACK",
+        "DOB": "30th August 1994",
+        "address": "30 Memorial Drive, Avon MA 2322",
+        "allergy": [
+          "celery",
+          "gluten",
+          "eggs",
+          "milk"
+        ],
+        "comment": "teeth cavity-teeth cleaning-teeth implant"
+      },
+      {
+        "id": 3,
+        "name": "ADAM LIAM",
+        "DOB": "31st July 1993 ",
+        "address": "250 Hartford Avenue, Bellingham MA 2019",
+        "allergy": [
+          "celery",
+          "gluten",
+          "eggs",
+          "milk"
+        ],
+        "comment": "teeth cavity-teeth cleaning-teeth implant"
+      },
+      {
+        "id": 4,
+        "name": "OLIVIA CILLIAN",
+        "DOB": "30th June 1991",
+        "address": "700 Oak Street, Brockton MA 2301",
+        "allergy": [
+          "celery",
+          "gluten",
+          "eggs",
+          "milk"
+        ],
+        "comment": "teeth cavity-teeth cleaning-teeth implant"
+      },
+      {
+        "name": "ahmed",
+        "DOB": "2022-04-01",
+        "address": "245 union blvd ",
+        "allergy": "",
+        "comment": "teeth implant",
+        "id": 5
+      }
+    ]
+  }
